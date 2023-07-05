@@ -11,7 +11,7 @@
                            <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                           <a class="nav-link" href="home/product.html">About</a>
+                           <a class="nav-link" href="about.blade.php">About</a>
                         </li>
                         <li class="nav-item">
                            <a class="nav-link" href="product.html">Event</a>
