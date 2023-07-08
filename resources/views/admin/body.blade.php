@@ -38,11 +38,9 @@
                 </div>
               </div>
               
-                  </div>
-                </div>
-              </div>
+              
             
-            <div class="row ">
+         
               <div class="col-12 grid-margin">
                 <div class="card">
                   <div class="card-body">
@@ -94,9 +92,8 @@
                       </table>
                     </div>
                   </div>
-                </div>
-              </div>
-            </div>
+             
+           
            
           <!-- content-wrapper ends -->
           <!-- partial:partials/_footer.html -->
